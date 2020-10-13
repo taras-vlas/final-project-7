@@ -10,6 +10,8 @@
 раз глобально поставить дополнительные пакеты, выполнив в терминале следующие
 команды. Пользователям MacOS ничего делать не нужно.
 
+
+
 Пользователям **Windows**, в режиме администратора.
 [Как запусттить Powershell](https://youtu.be/p2tFnxcymwk) в режиме
 администратора.
@@ -21,6 +23,8 @@ npm install --global --production windows-build-tools
 Вот как выглядит процесс успешной установки для пользователей **Windows**.
 
 ![Установка windows-build-tools](https://user-images.githubusercontent.com/1426799/45007904-bde9f280-afb4-11e8-8a35-c77dffaffa2a.gif)
+
+
 
 Пользователям **Linux**.
 
